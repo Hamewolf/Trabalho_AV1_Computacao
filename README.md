@@ -274,14 +274,18 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 
 ##👨‍🏫 Grupo
 
-Kauan Vieira Xavier - 06004975
-João Marcellus Peçanha Rosa - 06003360
-Nícolas Eduardo Teixeira De Assis - 06004043
-Lucas Domingos da Silva Miranda - 06004981
-Márcio Josué Branco Carnevali - 06003553
-Mohamad Lobo Azevedo – 06003782
+- Kauan Vieira Xavier - 06004975
+
+- João Marcellus Peçanha Rosa - 06003360
+
+- Nícolas Eduardo Teixeira De Assis - 06004043
+
+- Lucas Domingos da Silva Miranda - 06004981
+
+- Márcio Josué Branco Carnevali - 06003553
+
+- Mohamad Lobo Azevedo – 06003782
 
 ```bash
 git clone https://github.com/Hamewolf/Trabalho_AV1_Computacao.git
-message.txt
-7 KB
+
