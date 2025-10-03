@@ -1,0 +1,14 @@
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\bin\Debug\net8.0\ToolkitProjeto.exe
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\bin\Debug\net8.0\ToolkitProjeto.deps.json
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\bin\Debug\net8.0\ToolkitProjeto.runtimeconfig.json
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\bin\Debug\net8.0\ToolkitProjeto.dll
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\bin\Debug\net8.0\ToolkitProjeto.pdb
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.AssemblyInfoInputs.cache
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.AssemblyInfo.cs
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.csproj.CoreCompileInputs.cache
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.dll
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\refint\ToolkitProjeto.dll
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.pdb
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ToolkitProjeto.genruntimeconfig.cache
+C:\PASTATRABALHOEMANUAL\AV1-main\ToolkitProjeto\obj\Debug\net8.0\ref\ToolkitProjeto.dll
