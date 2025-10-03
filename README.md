@@ -84,7 +84,7 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 
 ### 1. Clone ou baixe o projeto
 
-```bash
+``bash
 git clone https://github.com/SEU-USERNAME/ProjetoToolkit.git
 # Projeto Toolkit em C#
 
@@ -98,22 +98,6 @@ Este é um **aplicativo de console desenvolvido em C# (.NET 9)** que funciona co
 
 **Objetivo:** Verificar se um símbolo individual e uma cadeia completa pertencem ao alfabeto Σ={a,b}.  
 
-... (76 linhas)
-Recolher
-message.txt
-7 KB
-Kauan Vieira Xavier - 06004975
-João Marcellus Peçanha Rosa - 06003360
-Nícolas Eduardo Teixeira De Assis - 06004043
-Lucas Domingos da Silva Miranda - 06004981
-Márcio Josué Branco Carnevali - 06003553
-Mohamad Lobo Azevedo – 06003782
-﻿
-As pessoas não sabe o quão obcecado eu sou em vencer
-Marrento22
-marrento22
- 
-https://www.instagram.com/joao_marcellus/
 # Projeto Toolkit em C#
 
 Este é um **aplicativo de console desenvolvido em C# (.NET 9)** que funciona como um **toolkit de ferramentas** para a disciplina de Computação Científica. O projeto consolida cinco módulos distintos, cada um abordando um conceito específico de **teoria da computação e lógica**, acessíveis através de um **menu interativo**.
@@ -200,8 +184,8 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 
 ### 1. Clone ou baixe o projeto
 
-```bash
-git clone https://github.com/SEU-USERNAME/ProjetoToolkit.git
+``bash
+git clone https://github.com/Hamewolf/Trabalho_AV1_Computacao.git
 # Projeto Toolkit em C#
 
 Este é um **aplicativo de console desenvolvido em C# (.NET 9)** que funciona como um **toolkit de ferramentas** para a disciplina de Computação Científica. O projeto consolida cinco módulos distintos, cada um abordando um conceito específico de **teoria da computação e lógica**, acessíveis através de um **menu interativo**.
@@ -287,11 +271,6 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 ## 🚀 Como Executar
 
 ### 1. Clone ou baixe o projeto
-
-```bash
-git clone https://github.com/SEU-USERNAME/ProjetoToolkit.git
-message.txt
-7 KB
 
 ##👨‍🏫 Grupo
 
@@ -301,3 +280,8 @@ Nícolas Eduardo Teixeira De Assis - 06004043
 Lucas Domingos da Silva Miranda - 06004981
 Márcio Josué Branco Carnevali - 06003553
 Mohamad Lobo Azevedo – 06003782
+
+```bash
+git clone https://github.com/Hamewolf/Trabalho_AV1_Computacao.git
+message.txt
+7 KB
