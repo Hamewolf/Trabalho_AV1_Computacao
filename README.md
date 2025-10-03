@@ -268,10 +268,6 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 
 ---
 
-## 🚀 Como Executar
-
-### 1. Clone ou baixe o projeto
-
 ##👨‍🏫 Grupo
 
 - Kauan Vieira Xavier - 06004975
@@ -286,6 +282,8 @@ Para compilar e executar este projeto, você precisará do **SDK do .NET 9 (ou s
 
 - Mohamad Lobo Azevedo – 06003782
 
+## 🚀 Como Executar
+### 1. Clone ou baixe o projeto
 ```bash
 git clone https://github.com/Hamewolf/Trabalho_AV1_Computacao.git
 
