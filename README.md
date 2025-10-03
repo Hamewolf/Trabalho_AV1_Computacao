@@ -74,6 +74,17 @@ Para compilar e executar este projeto, você precisará ter o SDK do **.NET 8** 
 
 ---
 
+### 👨‍🏫 Grupo
+
+- Kauan Vieira Xavier - 06004975
+- João Marcellus Peçanha Rosa - 06003360
+- Nícolas Eduardo Teixeira De Assis - 06004043
+- Lucas Domingos da Silva Miranda - 06004981
+- Márcio Josué Branco Carnevali - 06003553
+- Mohamad Lobo Azevedo – 06003782
+
+---
+
 ### 🚀 Como Executar  
 
 No terminal, siga os passos abaixo:  
